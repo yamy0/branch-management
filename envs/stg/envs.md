@@ -1,18 +1,9 @@
-\# ENVS
+# ENVS
 
-
-
-\## ENVIRONMENTS
-
-
+## ENVIRONMENTS
 
 this is staging
 
+### COMMIT TIME
 
-
-\### COMMIT TIME
-
-
-
-2026/3/1 22:08
-
+2026/3/1 22:17
